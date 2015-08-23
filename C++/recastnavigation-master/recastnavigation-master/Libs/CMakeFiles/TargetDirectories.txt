@@ -1,0 +1,7 @@
+C:/Users/Alexander/Downloads/recastnavigation-master/recastnavigation-master/Libs/Recast/CMakeFiles/Recast.dir
+C:/Users/Alexander/Downloads/recastnavigation-master/recastnavigation-master/Libs/DetourTileCache/CMakeFiles/DetourTileCache.dir
+C:/Users/Alexander/Downloads/recastnavigation-master/recastnavigation-master/Libs/Detour/CMakeFiles/Detour.dir
+C:/Users/Alexander/Downloads/recastnavigation-master/recastnavigation-master/Libs/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alexander/Downloads/recastnavigation-master/recastnavigation-master/Libs/DetourCrowd/CMakeFiles/DetourCrowd.dir
+C:/Users/Alexander/Downloads/recastnavigation-master/recastnavigation-master/Libs/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Alexander/Downloads/recastnavigation-master/recastnavigation-master/Libs/DebugUtils/CMakeFiles/DebugUtils.dir

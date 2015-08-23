@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\DetourCrowd\Source\DetourCrowd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\DetourCrowd\Source\DetourLocalBoundary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\DetourCrowd\Source\DetourObstacleAvoidance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\DetourCrowd\Source\DetourPathCorridor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\DetourCrowd\Source\DetourPathQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\DetourCrowd\Source\DetourProximityGrid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\DetourCrowd\Include\DetourCrowd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\DetourCrowd\Include\DetourLocalBoundary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\DetourCrowd\Include\DetourObstacleAvoidance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\DetourCrowd\Include\DetourPathCorridor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\DetourCrowd\Include\DetourPathQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\DetourCrowd\Include\DetourProximityGrid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\DetourCrowd\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C4784FC1-1755-4F20-BC83-4E90E61D397A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CFC72ADF-C878-4F24-8A28-557EF8D45F06}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

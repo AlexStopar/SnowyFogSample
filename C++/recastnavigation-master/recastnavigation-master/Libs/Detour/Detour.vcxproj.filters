@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Source\DetourAlloc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Source\DetourCommon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Source\DetourNavMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Source\DetourNavMeshBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Source\DetourNavMeshQuery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Source\DetourNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Include\DetourAlloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Include\DetourAssert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Include\DetourCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Include\DetourMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Include\DetourNavMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Include\DetourNavMeshBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Include\DetourNavMeshQuery.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Include\DetourNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\Include\DetourStatus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alexander\Downloads\recastnavigation-master\recastnavigation-master\Detour\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C4784FC1-1755-4F20-BC83-4E90E61D397A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CFC72ADF-C878-4F24-8A28-557EF8D45F06}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

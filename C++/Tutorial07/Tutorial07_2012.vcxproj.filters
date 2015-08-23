@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8e114980-c1a3-4ada-ad7c-83caadf5daeb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{2c3d4c8c-5d1a-459a-a05a-a4e4b608a44e}</UniqueIdentifier>
+      <Extensions>fx;fxh;hlsl</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{f4fe8b5d-996a-4dce-8bed-da717faa9b14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CPP Files">
+      <UniqueIdentifier>{7a9c92dd-2d1a-451a-b98f-84a3090c8604}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DDSTextureLoader.cpp">
+      <Filter>CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>CPP Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CLInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </CLInclude>
+    <ResourceCompile Include="Tutorial07.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+    <ClInclude Include="DDSTextureLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Device.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Copy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NavMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pathfinder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Skybox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Terrain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Tutorial07.fx">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Tutorial07_PS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Tutorial07_VS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="PurpleHaze_PS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="PurpleHaze_VS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="PurpleHaze.fx">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Skybox.fx">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Skybox_PS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Skybox_VS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Terrain.fx">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Terrain_VS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Terrain_PS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Snow.fx">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Snow_PS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="Snow_VS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="seafloor.dds">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ship.fbx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="plane.fbx">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
